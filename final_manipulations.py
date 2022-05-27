@@ -62,7 +62,7 @@ province_names = hos_province_names
 #
 
 # Summary of data file ingestion:
-# Because of the complexity of this data manipulation, it is more logical to
+# Because of the complexity of this data manipulation, it is logical to
 # include more metrics besides number of rows and columns in this summary.
 print('Summary of ingested data:')
 print(f'Number of provinces represented: {len(province_names)}')
